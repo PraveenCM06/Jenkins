@@ -1,4 +1,4 @@
-public class BinaryConversion {
+public class Employee {
   public static void main(String[] args) {
     // The integer array to be converted to binary
     int[] numbers = {10, 20, 30, 40};
